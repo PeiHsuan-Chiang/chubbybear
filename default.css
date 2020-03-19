@@ -359,7 +359,7 @@
 		overflow: hidden;
 		/*padding: 5em 0em;*/
 		position: center;
-		background-image:  url(~/images/pexels-1550648.jpg);
+		background-image:  url(/images/pexels-1550648.jpg);
 		background-size:  cover;
 		background-attachment: fixed;
 		/*background:url(D:\web\web3\images\homepage.jpg);*//*斜線注意錯誤*/
@@ -482,7 +482,7 @@
 	position: relative;
 	padding: 2em 0em;
 	overflow: hidden;
-	background: url("D:/web/web3/images/pexels-1550648.jpg") no-repeat ;
+	background: url("/images/pexels-1550648.jpg") no-repeat ;
 	background-size: cover;
 	color: #fff;
 }
